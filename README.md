@@ -23,7 +23,7 @@
 <h3 align="center">  About Me  </h3>
 <p align="center">
   <a href="https://velog.io/@hsw0194"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hsw0194"/></a>&nbsp
-  <a href="mailto:hsw0194@hanyang.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hsw0194@hanyang.ac.kr"/></a>
+  <a href="mailto:hsw0194@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hsw0194@hanyang.ac.kr"/></a>
 </p>
 <br>
 
