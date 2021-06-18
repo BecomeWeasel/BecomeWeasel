@@ -27,10 +27,13 @@
 </p>
 <br>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsw0194)](https://solved.ac/hsw0194)
+  
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsw0194)](https://solved.ac/hsw0194)
 
-
+<h2> Check out my newest Post : 
+  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hsw0194)](https://github.com/eungyeole/velog-readme-stats)
+  
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbecomeweasel&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
